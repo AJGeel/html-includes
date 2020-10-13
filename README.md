@@ -9,5 +9,5 @@ ___
 Currently, this repo has two implementations of these strategies:
 
 * A very janky `iFrame meets inline JS` strategy — [See the demo here 😱](https://ajgeel.github.io/html-includes/iframe).
-* A more elegant `fetch()` strategy — [See the demo here 👀](https://ajgeel.github.io/html-includes/iframe).
+* A more elegant `fetch()` strategy — [See the demo here 👀](https://ajgeel.github.io/html-includes/fetch).
   * [Read the documentation / instructions here](https://github.com/AJGeel/html-includes/tree/main/fetch).
